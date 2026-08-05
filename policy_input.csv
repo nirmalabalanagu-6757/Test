@@ -1,0 +1,2 @@
+Policyname,Prod_policy_name,val_policy_name,Policy_type,Master_Server_Name
+z_test_sai,z_test_sai_prod,z_test_sai_val,VMware,nbu-primary-server
